@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dpjagustin
 - 👀 I’m interested in Cibersecurity
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and MySQL
+- 💞️ I’m looking to collaborate on backend proyects
 - 📫 How to reach me: https://www.linkedin.com/in/dpjagustin/
 
 <!---

@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on cool proyects
 - 📫 How to reach me: https://www.linkedin.com/in/dpjagustin/
 
-<h2> My skilss </h2>
+<h2> My skils </h2>
 
 - HTML
 - CSS (Bootstrap - Sass)

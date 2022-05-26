@@ -9,7 +9,6 @@
 
 - HTML
 - CSS (Bootstrap - Sass)
-- JavaScript
 - Python
 - Git
 

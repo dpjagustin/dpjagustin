@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning JS, REACT and NODE
 - 💞️ I’m looking to collaborate on cool proyects
 - 📫 How to reach me: https://www.linkedin.com/in/dpjagustin/
+- 🔥  My portfolio: https://my-portfolio-murex-seven.vercel.app/
 
 <h2> My skills </h2>
 
@@ -11,6 +12,9 @@
 - CSS (Bootstrap - Sass)
 - Python
 - Git
+
+
+<i> 🚀 My passion is the innovation, I desire to build the future 🪐 </i>
 
 <!---
 dpjagustin/dpjagustin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

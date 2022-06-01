@@ -9,7 +9,7 @@
 <h2> My skills </h2>
 
 - HTML
-- CSS (Bootstrap - SASS)
+- CSS (Bootstrap - Sass)
 - Python
 - Git
 

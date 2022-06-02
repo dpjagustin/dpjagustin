@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JS, REACT and NODE
 - 💞️ I’m looking to collaborate on cool proyects
 - 📫 How to reach me: https://www.linkedin.com/in/dpjagustin/
-- 🔥  My portfolio: https://my-portfolio-murex-seven.vercel.app/
+- 🔥  My portfolio: https://my-portfolio-dpjagustin.vercel.app/
 
 <h2> My skills </h2>
 

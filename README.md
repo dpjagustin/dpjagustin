@@ -1,6 +1,6 @@
 <h1> ¡Hi, I'm <span>Agustín!</span>👋</h1>
 
-- 👀 I’m interested in Fullstack development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning JS, REACT and NODE
 - 💞️ I’m looking to collaborate on cool proyects
 - 📫 How to reach me: https://www.linkedin.com/in/dpjagustin/
@@ -10,6 +10,7 @@
 
 - HTML
 - CSS (Bootstrap - Sass)
+- JavaScript
 - Python
 - Git
 

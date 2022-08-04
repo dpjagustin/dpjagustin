@@ -1,6 +1,6 @@
 <h1> ¡Hi, I'm <span>Agustín!</span>👋</h1>
 
-- 👀 I’m interested in web3 development and UX/UI design
+- 👀 I’m interested in innovation.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on cool proyects
 - 📫 How to reach me: https://www.linkedin.com/in/dpjagustin/

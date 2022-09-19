@@ -11,6 +11,7 @@
 - HTML
 - CSS (Bootstrap - Sass)
 - JavaScript
+- ReactJS
 - Python
 - Git
 

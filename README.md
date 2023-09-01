@@ -1,7 +1,7 @@
 <h1> ¡Hi, I'm <span>Agustín!</span>👋</h1>
 
 - 👀 I’m interested in innovation.
-- 🌱 I’m currently learning Cibersecurity.
+- 🌱 I’m currently learning Backend.
 - 💞️ I’m looking to collaborate on cool proyects
 - 📫 How to reach me: https://www.linkedin.com/in/dpjagustin/
 - 🔥  My portfolio: In process...
@@ -11,13 +11,8 @@
 - HTML
 - CSS (Bootstrap - Sass)
 - JavaScript
-- ReactJS
 - Python
-- Git
-- Shell Scripting
-- SO 
-- Cibersecurity
-
+- SQL
 
 <i> 🚀 My passion is the innovation, I desire to build the future 🪐 </i>
 
